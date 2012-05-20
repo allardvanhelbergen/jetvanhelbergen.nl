@@ -1,0 +1,18 @@
+ body {
+  /*background: url(../img/background-bw.jpg) top left fixed no-repeat;
+  background-size: auto 100%;*/
+  padding:  60px 0 40px 0;
+}
+
+#title {
+  background: none transparent;
+}
+
+#title small {
+  color: red;
+}
+
+header {
+  background: url(../img/background-bw.jpg) top center no-repeat;
+  background-size: 100% auto;
+}
