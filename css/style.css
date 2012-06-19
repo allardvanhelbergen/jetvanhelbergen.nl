@@ -1,6 +1,4 @@
  body {
-  /*background: url(../img/background-bw.jpg) top left fixed no-repeat;
-  background-size: auto 100%;*/
   padding:  60px 0 40px 0;
 }
 
@@ -13,6 +11,6 @@
 }
 
 header {
-  background: url(../img/background-bw.jpg) top center no-repeat;
+  background: url(../images/background-bw.jpg) top center no-repeat;
   background-size: 100% auto;
 }
