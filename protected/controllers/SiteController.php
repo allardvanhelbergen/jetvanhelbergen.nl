@@ -14,11 +14,19 @@ class SiteController extends CController
 	}
 
 	/**
-	 * Displays the contact page
+	 * Displays the Photo page
 	 */
-	public function actionContact()
+	public function actionBeelden()
 	{
-		$this->render('contact');
+		$this->render('beelden');
+	}
+
+	/**
+	 * Displays the Project page
+	 */
+	public function actionProjecten()
+	{
+		$this->render('projecten');
 	}
 
 }

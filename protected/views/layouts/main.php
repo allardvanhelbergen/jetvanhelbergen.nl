@@ -2,24 +2,30 @@
 <html lang="nl">
   <head>
     <meta charset="utf-8">
-    <title><?php /*echo $pageTitle;*/ ?>Jet van Helbergen - Sopraan</title>
+    <title>
+      <?php /*echo $pageTitle;*/ ?>
+      <?php echo CHtml::encode(Yii::app()->name); ?>
+    </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?php /*echo $pageDescription;*/ ?>">
     <meta name="author" 
         content="Allard van Helbergen, http://www.vanhelbergen.com/">
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="css/lightbox.css" rel="stylesheet">
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.min.css" 
+        rel="stylesheet">
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css" 
+        rel="stylesheet">
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap-responsive.min.css" 
+        rel="stylesheet">
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/lightbox.css" 
+        rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script src="assets/bootstrap.min.js"></script>
-    <script src="assets/lightbox.js"></script>
+    <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/lightbox.js"></script>
 </head>
 
 <body>
@@ -28,7 +34,8 @@
     <header>
       <div id="title" class="hero-unit">
         <h1>
-          Jet van Helbergen <small>Sopraan</small>
+          Jet van Helbergen
+          <small>Sopraan</small>
         </h1>
       </div>
     </header>
