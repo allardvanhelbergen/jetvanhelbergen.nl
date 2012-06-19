@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <title><?php /*echo $pageTitle;*/ ?>Jet van Helbergen - Sopraan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="<?php /*echo $pageDescription;*/ ?>">
+    <meta name="author" 
+        content="Allard van Helbergen, http://www.vanhelbergen.com/">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="css/lightbox.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="assets/bootstrap.min.js"></script>
+    <script src="assets/lightbox.js"></script>
+</head>
+
+<body>
+  <div class="container">
+
+    <header>
+      <div id="title" class="hero-unit">
+        <h1>
+          Jet van Helbergen <small>Sopraan</small>
+        </h1>
+      </div>
+    </header>
+
+    <div id="main-content" class="row">
+
+      <?php echo $content; ?>
+
+      <div class="span3 offset1">
+        <div class="row">
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>
+            <a class="btn btn-primary btn-large btn-success span2"
+                href="http://soundcloud.com/jetvanhelbergen">
+              <i class="icon-headphones icon-white"></i>&nbsp;
+              Luister naar Jet op Soundcloud</a>
+          </p>
+        </div>
+        <div class="row">
+          <p>&nbsp;</p>
+          <p>
+            <a class="btn btn-large btn-primary span2"
+                href="http://www.voordekunst.nl/vdk/project/view/430-jamaica-farewell">
+              Steun mijn project<br>
+              Jamaica Farewell</a>
+          </p>
+        </div>
+        <div class="row">
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <address>
+            <strong>Jet van Helbergen</strong>
+            <br>
+            <a href="mailto:info@jetvanhelbergen.nl">
+              info@jetvanhelbergen.nl</a>
+            <i class="icon-envelope"></i> 
+          </address>
+        </div>
+      </div>
+    </div>
+
+    <hr>
+
+    <footer>
+      <p>&copy; Jet van Helbergen, 2012</p>
+    </footer>
+  </div>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-31265155-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ?
+          'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+</body>
+</html>
