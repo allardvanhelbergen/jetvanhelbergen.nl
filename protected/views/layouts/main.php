@@ -3,11 +3,19 @@
   <head>
     <meta charset="utf-8">
     <title>
-      <?php /*echo $pageTitle;*/ ?>
-      <?php echo CHtml::encode(Yii::app()->name); ?>
+      <?php if (isset($this->title)) {echo $this->title . ' - ';}
+          echo CHtml::encode(Yii::app()->name); ?>
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="<?php /*echo $pageDescription;*/ ?>">
+    <meta name="description" 
+    content="<?php 
+        if (isset($this->description)) {
+          echo $this->description;
+        } else {
+          echo 'Offici&euml;le site van Jet van Helbergen, Sopraan. '.
+              'Afgestudeerd aan het Conservatorium van Rotterdam werkt zij '.
+              'vanuit haar studio in Amsterdam.';} 
+        ?>">
     <meta name="author" 
         content="Allard van Helbergen, http://www.vanhelbergen.com/">
 

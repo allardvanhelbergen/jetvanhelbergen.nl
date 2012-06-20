@@ -6,7 +6,6 @@ return array(
 	'components'=>array(
 		'urlManager'=>array(
 			'urlFormat'=>'path',
-			// TODO(allard):Figure this out
 			'rules'=>array(
 			  'index.html'=>'site/',
 			  'beelden.html'=>'site/beelden',

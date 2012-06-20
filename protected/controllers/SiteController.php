@@ -5,6 +5,8 @@
  */
 class SiteController extends CController
 {
+  public $title,
+      $description;
 	/**
 	 * Index action is the default action in a controller.
 	 */
@@ -18,6 +20,10 @@ class SiteController extends CController
 	 */
 	public function actionBeelden()
 	{
+	  $this->title = 'Photos en Beelden';
+	  $this->description = 'Bekijk photo&apos;s van Jet van Helbergen. Zie '.
+	      'beelden van solo concerten, opera&apos;s, koor concerten en andere '.
+	      'optredens.';
 		$this->render('beelden');
 	}
 
@@ -26,7 +32,10 @@ class SiteController extends CController
 	 */
 	public function actionProjecten()
 	{
+	  $this->title = 'Projecten en Agenda';
+	  $this->description = 'Bekijk de projecten waar Jet bij betrokken is. '.
+	      'Zie concert data, locaties and aanvangstijden die in haar agenda '.
+	      'staan.';
 		$this->render('projecten');
 	}
-
 }
