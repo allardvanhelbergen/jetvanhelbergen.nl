@@ -20,7 +20,7 @@
           <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/photos/lege-wieg-31-jet-van-helbergen.jpg"
               rel="lightbox[group]"
               class="thumbnail"
-              title="De Lege Wieg – Seung-Ah Oh o.l.v. Romain Bisschof, Energiehuis, Dordrecht">
+              title="De Lege Wieg – Seung-Ah Oh o.l.v. Romain Bischoff, Energiehuis, Dordrecht">
             <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/photos/thumb-lege-wieg-31-jet-van-helbergen.jpg"
                 alt="">
           </a>
