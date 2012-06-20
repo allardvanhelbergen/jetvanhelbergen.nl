@@ -90,6 +90,9 @@
     <hr>
 
     <footer>
+      <p class="pull-right silent">
+        <a class="silent" href="//www.vanhelbergen.com">Webdesign door Allard van Helbergen</a>
+      </p>
       <p>&copy; Jet van Helbergen, 2012</p>
     </footer>
   </div>
