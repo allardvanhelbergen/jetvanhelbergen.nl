@@ -1,8 +1,16 @@
 <div class="span8 tabbable">
   <ul class="nav nav-tabs">
-    <li class="active"><a href="#">Biografie</a></li>
-    <li><a href="projecten.html">Projecten</a></li>
-    <li><a href="beelden.html">Beelden</a></li>
+    <li class="active">
+      <a>Biografie</a>
+    </li>
+    <li>
+      <a href="<?php echo Yii::app()->request->baseUrl; ?>/projecten.html">
+          Projecten</a>
+    </li>
+    <li>
+      <a href="<?php echo Yii::app()->request->baseUrl; ?>/beelden.html">
+          Beelden</a>
+    </li>
   </ul>
   <div class="tab-content">
     <div class="tab-pane active" id="biografie">
