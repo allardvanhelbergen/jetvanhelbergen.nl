@@ -16,9 +16,16 @@
       <h2>Huidige Projecten</h2>
       <div itemscope itemtype="http://schema.org/Event">
         <h3 itemprop="name">Jamaica Farewell</h3>
+        <ul class="thumbnails pull-right">
+          <li class="span3">
+            <a class="thumbnail">
+              <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/thumb-Jamaica-Farewell.png" alt="">
+            </a>
+          </li>
+        </ul>
         <br>
         <div itemprop="description">
-          <blockquote class="">
+          <blockquote>
             <p>
               Down the way where the nights are gay<br>
               And the sun shines daily on the mountain top,
@@ -31,8 +38,9 @@
               But I'm sad to say, I'm on my way,<br>
               Won't be back for many a day...
             </p>
-             <small><cite>Harry Belafonte   in Jamaica Farewell</cite></small>
+            <small><cite>Harry Belafonte in Jamaica Farewell</cite></small>
           </blockquote>
+          <br>
           <p>
             Wat is dat thuisland waar Belafonte over zingt? En hoe komt het dat
             zijn verlangen zo herkenbaar is? Is de zoektocht naar het thuisland
