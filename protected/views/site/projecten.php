@@ -8,7 +8,7 @@
     </li>
     <li>
       <a href="<?php echo Yii::app()->request->baseUrl; ?>/beelden.html">
-          Beelden</a>
+        Beelden</a>
     </li>
   </ul>
   <div class="tab-content">
@@ -145,41 +145,41 @@
             Omschrijving op Voor de Kunst</a>
         </p>
       </div>
-      <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">Requiem, W.A. Mozart</h3>
-        <p itemprop="description">
-          In samenwerking met het
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/MusicGroup">
-            <span itemprop="name">Noordhollands Muziekensemble</span>
-          </span>
-          o.l.v.
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/Person">
-            <span itemprop="name">Hendrik Timmerman</span>.
-          </span>
-        </p>
-        <p>
-          <span itemprop="location"
-              itemscope
-              itemtype="http://schema.org/Church">
-            <span itemprop="name">Grote- of St. Laurenskerk</span>,
-            <span itemprop="address"
-                itemscope
-                itemtype="http://schema.org/PostalAddress">
-              <span itemprop="addressLocality">Alkmaar</span>
-            </span>
-          </span>
-          <br/>
-          <span itemprop="startDate" content="2012-10-20T20:00">
-            20 oktober 2012, Aanvang: 20.00
-          </span>
-          <br/>
-          <a href="http://nhme.nl/">Kaartverkoop en informatie</a>
-        </p>
-      </div>
+      <div itemscope itemtype="http://schema.org/Event">
+        <h3 itemprop="name">Requiem, W.A. Mozart</h3>
+        <p itemprop="description">
+          In samenwerking met het
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/MusicGroup">
+            <span itemprop="name">Noordhollands Muziekensemble</span>
+          </span>
+          o.l.v.
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Hendrik Timmerman</span>.
+          </span>
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/Church">
+            <span itemprop="name">Grote- of St. Laurenskerk</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Alkmaar</span>
+            </span>
+          </span>
+          <br/>
+          <span itemprop="startDate" content="2012-10-20T20:00">
+            20 oktober 2012, Aanvang: 20.00
+          </span>
+          <br/>
+          <a href="http://nhme.nl/">Kaartverkoop en informatie</a>
+        </p>
+      </div>
       <div itemscope itemtype="http://schema.org/Event">
         <h3 itemprop="name">Besloten Kerst-recital</h3>
         <p itemprop="description">
@@ -244,10 +244,9 @@
             22 december 2012, Aanvang: 20.00
           </span>
           <br>
-          <a href="http://nhme.nl/">Kaartverkoop en informatie</a>
+          <a href="http://nhme.nl/">Kaartverkoop en informatie</a>
         </p>
       </div>
     </div>
   </div>
 </div>
-
