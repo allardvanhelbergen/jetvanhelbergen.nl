@@ -18,10 +18,14 @@
         <h3 itemprop="name">Jamaica Farewell</h3>
         <ul class="thumbnails pull-right">
           <li class="span3">
-            <a class="thumbnail">
+            <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/Jamaica-Farewell.jpg"
+                rel="lightbox[group]"
+                class="thumbnail"
+                title="Jamaica Farewell speelt in September in de Palmenkas, Hortus Botanicus, Amsterdam">
               <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/thumb-Jamaica-Farewell.png" alt="">
             </a>
           </li>
+        </li>
         </ul>
         <br>
         <div itemprop="description">
@@ -40,6 +44,7 @@
             </p>
             <small><cite>Harry Belafonte in Jamaica Farewell</cite></small>
           </blockquote>
+          <br>
           <br>
           <p>
             Wat is dat thuisland waar Belafonte over zingt? En hoe komt het dat
