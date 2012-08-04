@@ -13,6 +13,7 @@
   </ul>
   <div class="tab-content">
     <div class="tab-pane active" id="beeld">
+      <h2>Foto&apos;s</h2>
       <ul class="thumbnails">
         <li class="span2">
           <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/photos/brel-eindexamen-jet-van-helbergen.jpg"
