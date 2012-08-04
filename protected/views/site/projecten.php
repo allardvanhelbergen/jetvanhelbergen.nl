@@ -13,7 +13,7 @@
   </ul>
   <div class="tab-content">
     <div class="tab-pane active" id="projecten">
-      <h2>Huidige Projecten</h2>
+      <h2>Agenda concerten en projecten</h2>
       <div itemscope itemtype="http://schema.org/Event">
         <h3 itemprop="name">Jamaica Farewell</h3>
         <ul class="thumbnails pull-right">
@@ -71,8 +71,10 @@
                 itemtype="http://schema.org/Person">
               <span itemprop="name">Marjolijn van Heemstra</span>
             </dd>
-            <dt>Instrumentalisten:</dt>
-            <dd><span itemprop="performer"
+            <dt>Multi-Instrumentalisten:</dt>
+            <dd>
+              <br/>
+              <span itemprop="performer"
                 itemscope
                 itemtype="http://schema.org/Person">
               <span itemprop="name">Boele Weemhoff</span>
@@ -105,11 +107,11 @@
                 <span itemprop="name">Martijn Heida</span>
               </span>
             </dd>
-            <dt>Eindregie:</dt>
+            <dt>Regie:</dt>
             <dd itemprop="performer"
                 itemscope
                 itemtype="http://schema.org/Person">
-              <span itemprop="name">Bart Kiene</span>
+              <span itemprop="name">Carole van Ditshuyzen</span>
             </dd>
           </dl>
         </div>
@@ -129,7 +131,7 @@
             17 september 2012, Aanvang: 20.00
           </span>
           (try-out)<br>
-          19 september 2012, Aanvang: 20.00 (premiere)<br>
+          19 september 2012, Aanvang: 20.00 (premi&egrave;re)<br>
           20 september 2012, Aanvang: 20.00<br>
           21 september 2012, Aanvang: 20.00<br>
           23 september 2012, Aanvang: 17.15<br>
@@ -177,11 +179,11 @@
             20 oktober 2012, Aanvang: 20.00
           </span>
           <br/>
-          <a href="http://nhme.nl/">Kaartverkoop en informatie</a>
+          <a href="http://nhme.nl/kaarten.html">Kaartverkoop en informatie</a>
         </p>
       </div>
       <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">Besloten Kerst-recital</h3>
+        <h3 itemprop="name">Besloten Kerst-recitals</h3>
         <p itemprop="description">
           In samenwerking met pianist
           <span itemprop="performer"
@@ -191,19 +193,6 @@
           </span>
         </p>
         <p>
-          <span itemprop="location"
-              itemscope
-              itemtype="http://schema.org/Place">
-            <span itemprop="name">De Beukenhorst</span>,
-            <span itemprop="address"
-                itemscope
-                itemtype="http://schema.org/PostalAddress">
-              <span itemprop="addressLocality">
-                Driebergen-Rijsenburg
-              </span>
-            </span>
-          </span>
-          <br>
           <span itemprop="startDate" content="2012-12-17">
             17 - 24 december 2012
           </span>
@@ -244,7 +233,7 @@
             22 december 2012, Aanvang: 20.00
           </span>
           <br>
-          <a href="http://nhme.nl/">Kaartverkoop en informatie</a>
+          <a href="http://nhme.nl/kaarten.html">Kaartverkoop en informatie</a>
         </p>
       </div>
     </div>

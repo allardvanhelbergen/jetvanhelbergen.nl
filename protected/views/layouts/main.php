@@ -68,8 +68,17 @@
           <p>
             <a class="btn btn-large btn-primary span2"
                 href="http://www.voordekunst.nl/vdk/project/view/430-jamaica-farewell">
-              Steun mijn project<br>
-              Jamaica Farewell</a>
+              Bekijk Jamaica Farewell<br>
+              op voordekunst.nl</a>
+          </p>
+        </div>
+        <div class="row">
+          <p>&nbsp;</p>
+          <p>
+            <a class="btn btn-large btn-danger span2"
+                href="http://dehortus.nl/programma/#1104">
+              Koop kaarten voor<br>
+              Jamaica Farewell</a>  
           </p>
         </div>
         <div class="row">

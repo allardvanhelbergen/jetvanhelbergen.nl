@@ -72,7 +72,7 @@
           <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/photos/dsc-0111-portret-jet-van-helbergen.jpg"
               rel="lightbox[group]"
               class="thumbnail"
-              title="Portret van Jet">
+              title="Portret van Jet. Fotografie Doina Kraal">
             <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/photos/thumb-dsc-0111-portret-jet-van-helbergen.jpg"
                 alt="">
           </a>
