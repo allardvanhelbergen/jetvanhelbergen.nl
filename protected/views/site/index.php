@@ -5,7 +5,7 @@
     </li>
     <li>
       <a href="<?php echo Yii::app()->request->baseUrl; ?>/projecten.html">
-          Projecten</a>
+          Concerten</a>
     </li>
     <li>
       <a href="<?php echo Yii::app()->request->baseUrl; ?>/beelden.html">

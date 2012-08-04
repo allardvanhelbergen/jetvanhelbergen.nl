@@ -4,7 +4,7 @@
       <a href="<?php echo Yii::app()->request->baseUrl; ?>/">Biografie</a>
     </li>
     <li class="active">
-      <a>Projecten</a>
+      <a>Concerten</a>
     </li>
     <li>
       <a href="<?php echo Yii::app()->request->baseUrl; ?>/beelden.html">
