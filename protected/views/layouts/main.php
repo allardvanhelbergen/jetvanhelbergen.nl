@@ -58,6 +58,7 @@
           <p>&nbsp;</p>
           <p>
             <a class="btn btn-primary btn-large btn-success span2"
+                target="_blank"
                 href="http://soundcloud.com/jetvanhelbergen">
               <i class="icon-headphones icon-white"></i>&nbsp;
               Luister naar Jet op Soundcloud</a>
@@ -67,18 +68,9 @@
           <p>&nbsp;</p>
           <p>
             <a class="btn btn-large btn-primary span2"
-                href="http://www.voordekunst.nl/vdk/project/view/430-jamaica-farewell">
-              Bekijk Jamaica Farewell<br>
-              op voordekunst.nl</a>
-          </p>
-        </div>
-        <div class="row">
-          <p>&nbsp;</p>
-          <p>
-            <a class="btn btn-large btn-danger span2"
-                href="http://dehortus.nl/programma/#1104">
-              Koop kaarten voor<br>
-              Jamaica Farewell</a>  
+                target="_blank"
+                href="http://www.adelinevanlier.nl/programma/theater-muziek-jamaica-farewell-jet-van-helbergen/">
+              Recensie Jamaica Farewell op KRO</a>
           </p>
         </div>
         <div class="row">

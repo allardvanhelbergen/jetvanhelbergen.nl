@@ -19,7 +19,7 @@
         <ul class="thumbnails pull-right">
           <li class="span3">
             <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/Jamaica-Farewell.jpg"
-                rel="lightbox[group]"
+                rel="lightbox"
                 class="thumbnail"
                 title="Jamaica Farewell speelt in September in de Palmenkas, Hortus Botanicus, Amsterdam">
               <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/thumb-Jamaica-Farewell.png" alt="">
@@ -153,38 +153,91 @@
         </p>
       </div>
       <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">Requiem, W.A. Mozart</h3>
+        <h3 itemprop="name">Step by Step by Wheels</h3>
+        <ul class="thumbnails pull-right">
+          <li class="span3">
+            <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/step-by-step.jpg"
+                rel="lightbox"
+                class="thumbnail"
+                title="Step by Step by Wheels speelt in oktober in de Vondelkerk, Amsterdam">
+              <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/thumb-step-by-step.png" alt="">
+            </a>
+          </li>
+        </li>
+        </ul>
         <p itemprop="description">
-          In samenwerking met het
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/MusicGroup">
-            <span itemprop="name">Noordhollands Muziekensemble</span>
-          </span>
-          o.l.v.
+          In samenwerking met regisseur
           <span itemprop="performer"
               itemscope
               itemtype="http://schema.org/Person">
-            <span itemprop="name">Hendrik Timmerman</span>.
+            <span itemprop="name">Luc Boyer</span>.
           </span>
+        </p>
+        <p>
+          Luc Boyer over de voorstelling:
+          <br/>
+          &ldquo;Dit bewegingstheaterproject is ontstaan en voorbereid in mijn
+          hoofd en hart tijdens mijn verblijf in Reade van 26 maart tot heden,
+          wordt opgedragen aan mijn mederevalidanten als troost en steun bij
+          hun verdriet, pijn en zorg en is bedoeld als een eerbetoon aan de
+          artsen, begeleiders, therapeuten, verplegers en verzorgers voor
+          hun niet-aflatende zorg, aandacht, warmte en kracht.&rdquo;
         </p>
         <p>
           <span itemprop="location"
               itemscope
               itemtype="http://schema.org/Church">
-            <span itemprop="name">Grote- of St. Laurenskerk</span>,
+            <span itemprop="name">Vondelkerk</span>,
             <span itemprop="address"
                 itemscope
                 itemtype="http://schema.org/PostalAddress">
-              <span itemprop="addressLocality">Alkmaar</span>
+              <span itemprop="addressLocality">Amsterdam</span>
             </span>
           </span>
           <br/>
-          <span itemprop="startDate" content="2012-10-20T20:00">
-            20 oktober 2012, Aanvang: 20.00
+          <span itemprop="startDate" content="2012-10-07T12:00">
+            7 oktober 2012, Aanvang: 12.00
+          </span>
+        </p>
+      </div>
+      <div itemscope itemtype="http://schema.org/Event">
+        <h3 itemprop="name">5 kwarts</h3>
+        <p itemprop="description">
+          In samenwerking met
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Marjolijn van Heemstra</span>.
+          </span>
+        </p>
+        <p>
+          Melkweg Theater presenteert samen met de SLAA (Stichting Literaire
+          Activiteiten Amsterdam) 5Kwarts: een ongebruikelijk programma waarin
+          een schrijver de hoofdrol speelt in zijn eigen compositie in tekst,
+          beeld en geluid. Wat is zijn of haar artistieke context? Wie nodigt
+          de schrijver naast zich op het podium uit, ongeacht de discipline?
+          Marjolijn van Heemstra gaat deze uitdaging aan en heeft Jet van
+          Helbergen hierbij uitgenodigd.
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/NightClub">
+            <span itemprop="name">Melkweg</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Amsterdam</span>
+            </span>
           </span>
           <br/>
-          <a href="http://nhme.nl/kaarten.html">Kaartverkoop en informatie</a>
+          <span itemprop="startDate" content="2012-10-17T20:30">
+            17 oktober 2012, Aanvang: 20.30
+          </span>
+        </p>
+        <p>
+          <a href="http://www.melkweg.nl/artikelpagina.jsp?artikelid=2028004">
+            Kaarteverkoop en informatie</a>
         </p>
       </div>
       <div itemscope itemtype="http://schema.org/Event">
