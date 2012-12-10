@@ -14,8 +14,207 @@
   <div class="tab-content">
     <div class="tab-pane active" id="projecten">
       <h2>Agenda concerten en projecten</h2>
+      
+      <h3>December 2012</h3>
+      
       <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">Jamaica Farewell</h3>
+        <h4 itemprop="name">Besloten Kerst-recitals</h4>
+        <p itemprop="description">
+          In samenwerking met pianist
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Cyrill Ibrahim</span>.
+          </span>
+        </p>
+        <p>
+          <span itemprop="startDate" content="2012-12-17">
+            17 - 24 december 2012
+          </span>
+        </p>
+        <p>
+          <a href="http://cyrillibrahim.wordpress.com/">
+            Website van Cyrill Ibrahim</a>
+        </p>
+      </div>
+      
+      <div itemscope itemtype="http://schema.org/Event">
+        <h4 itemprop="name">Verhaal van Kerst</h4>
+        <p itemprop="description">
+          In samenwerking met
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Ruben van Zwieten</span>
+          </span>
+          <span itemscope itemtype="http://schema.org/NGO">
+            <span itemprop="name">Zingeving Zuidas</span>.
+          </span>
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/Church">
+            <span itemprop="name">Thomaskerk</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Amsterdam</span>
+            </span>
+          </span>
+          <br/>
+          <span itemprop="startDate" content="2012-12-12T20:00">
+            12 december 2012, Aanvang: 20.00
+          </span>
+        </p>
+        <p>
+          <a href="http://www.zingevingzuidas.nl/">
+            www.zingevingzuidas.nl</a>
+        </p>
+      </div>
+      
+      <h3>November 2012</h3>
+      
+      <div itemscope itemtype="http://schema.org/Event">
+        <h4 itemprop="name">Sermoen 'In de Houten Broek'</h4>
+        <p itemprop="description">
+          In samenwerking met
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Marjolijn van Heemstra</span>.
+          </span>
+        </p>
+        <p>
+          Is welsprekendheid in de Nederlandse cultuur een verwaarloosde kunst?
+          Spreken in het openbaar, overtuigend van inhoud en woordkeus, 
+          welluidend, met dictie en ritme, daar worden we niet ruimschoots mee 
+          opgevoed of verwend. Aan de andere kant van de Noordzee en oceaan is 
+          dat anders. Maar ook in Frankrijk. Natuurlijk zijn ze er in Nederland,
+          de bevlogen woordkunstenaars. We geven ze graag het woord. 
+          &lquo;In De Houten Broek&rquo; ruimt tijd en aandacht in voor 
+          welsprekendheid en biedt speels en serieus tegenwicht tegen de 
+          babbelcultuur alom, de kakofonie van snelle meningen, de dictatuur 
+          van one-liners.
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/Church">
+            <span itemprop="name">Geertekerk</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Utrecht</span>
+            </span>
+          </span>
+          <br/>
+          <span itemprop="startDate" content="2012-11-25T17:0">
+            25 november 2012, Anvang: 17.00
+          </span>
+        </p>
+        <p>
+          <a href="http://www.indehoutenbroek.nl/">
+            www.indehoutenbroek.nl</a>
+        </p>
+      </div>
+      
+      <h3>Oktober 2012</h3>
+      
+      <div itemscope itemtype="http://schema.org/Event">
+        <h4 itemprop="name">5 kwarts</h4>
+        <p itemprop="description">
+          In samenwerking met
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Marjolijn van Heemstra</span>.
+          </span>
+        </p>
+        <p>
+          Melkweg Theater presenteert samen met de SLAA (Stichting Literaire
+          Activiteiten Amsterdam) 5Kwarts: een ongebruikelijk programma waarin
+          een schrijver de hoofdrol speelt in zijn eigen compositie in tekst,
+          beeld en geluid. Wat is zijn of haar artistieke context? Wie nodigt
+          de schrijver naast zich op het podium uit, ongeacht de discipline?
+          Marjolijn van Heemstra gaat deze uitdaging aan en heeft Jet van
+          Helbergen hierbij uitgenodigd.
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/NightClub">
+            <span itemprop="name">Melkweg</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Amsterdam</span>
+            </span>
+          </span>
+          <br/>
+          <span itemprop="startDate" content="2012-10-17T20:30">
+            17 oktober 2012, Aanvang: 20.30
+          </span>
+        </p>
+        <p>
+          <a href="http://www.melkweg.nl/artikelpagina.jsp?artikelid=2028004">
+            Kaarteverkoop en informatie</a>
+        </p>
+      </div>
+      
+      <div itemscope itemtype="http://schema.org/Event">
+        <h4 itemprop="name">Step by Step by Wheels</h4>
+        <ul class="thumbnails pull-right">
+          <li class="span3">
+            <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/step-by-step.jpg"
+                rel="lightbox"
+                class="thumbnail"
+                title="Step by Step by Wheels speelt in oktober in de Vondelkerk, Amsterdam">
+              <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/thumb-step-by-step.png" alt="">
+            </a>
+          </li>
+        </li>
+        </ul>
+        <p itemprop="description">
+          In samenwerking met regisseur
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Luc Boyer</span>.
+          </span>
+        </p>
+        <p>
+          Luc Boyer over de voorstelling:
+          <br/>
+          &ldquo;Dit bewegingstheaterproject is ontstaan en voorbereid in mijn
+          hoofd en hart tijdens mijn verblijf in Reade van 26 maart tot heden,
+          wordt opgedragen aan mijn mederevalidanten als troost en steun bij
+          hun verdriet, pijn en zorg en is bedoeld als een eerbetoon aan de
+          artsen, begeleiders, therapeuten, verplegers en verzorgers voor
+          hun niet-aflatende zorg, aandacht, warmte en kracht.&rdquo;
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/Church">
+            <span itemprop="name">Vondelkerk</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Amsterdam</span>
+            </span>
+          </span>
+          <br/>
+          <span itemprop="startDate" content="2012-10-07T12:00">
+            7 oktober 2012, Aanvang: 12.00
+          </span>
+        </p>
+      </div>
+      
+      <h3>September 2012</h3>
+      
+      <div itemscope itemtype="http://schema.org/Event">
+        <h4 itemprop="name">Jamaica Farewell</h4>
         <ul class="thumbnails pull-right">
           <li class="span3">
             <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/Jamaica-Farewell.jpg"
@@ -152,148 +351,7 @@
             Omschrijving op Voor de Kunst</a>
         </p>
       </div>
-      <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">Step by Step by Wheels</h3>
-        <ul class="thumbnails pull-right">
-          <li class="span3">
-            <a href="<?php echo Yii::app()->request->baseUrl; ?>/images/step-by-step.jpg"
-                rel="lightbox"
-                class="thumbnail"
-                title="Step by Step by Wheels speelt in oktober in de Vondelkerk, Amsterdam">
-              <img src="<?php echo Yii::app()->request->baseUrl; ?>/images/thumb-step-by-step.png" alt="">
-            </a>
-          </li>
-        </li>
-        </ul>
-        <p itemprop="description">
-          In samenwerking met regisseur
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/Person">
-            <span itemprop="name">Luc Boyer</span>.
-          </span>
-        </p>
-        <p>
-          Luc Boyer over de voorstelling:
-          <br/>
-          &ldquo;Dit bewegingstheaterproject is ontstaan en voorbereid in mijn
-          hoofd en hart tijdens mijn verblijf in Reade van 26 maart tot heden,
-          wordt opgedragen aan mijn mederevalidanten als troost en steun bij
-          hun verdriet, pijn en zorg en is bedoeld als een eerbetoon aan de
-          artsen, begeleiders, therapeuten, verplegers en verzorgers voor
-          hun niet-aflatende zorg, aandacht, warmte en kracht.&rdquo;
-        </p>
-        <p>
-          <span itemprop="location"
-              itemscope
-              itemtype="http://schema.org/Church">
-            <span itemprop="name">Vondelkerk</span>,
-            <span itemprop="address"
-                itemscope
-                itemtype="http://schema.org/PostalAddress">
-              <span itemprop="addressLocality">Amsterdam</span>
-            </span>
-          </span>
-          <br/>
-          <span itemprop="startDate" content="2012-10-07T12:00">
-            7 oktober 2012, Aanvang: 12.00
-          </span>
-        </p>
-      </div>
-      <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">5 kwarts</h3>
-        <p itemprop="description">
-          In samenwerking met
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/Person">
-            <span itemprop="name">Marjolijn van Heemstra</span>.
-          </span>
-        </p>
-        <p>
-          Melkweg Theater presenteert samen met de SLAA (Stichting Literaire
-          Activiteiten Amsterdam) 5Kwarts: een ongebruikelijk programma waarin
-          een schrijver de hoofdrol speelt in zijn eigen compositie in tekst,
-          beeld en geluid. Wat is zijn of haar artistieke context? Wie nodigt
-          de schrijver naast zich op het podium uit, ongeacht de discipline?
-          Marjolijn van Heemstra gaat deze uitdaging aan en heeft Jet van
-          Helbergen hierbij uitgenodigd.
-        </p>
-        <p>
-          <span itemprop="location"
-              itemscope
-              itemtype="http://schema.org/NightClub">
-            <span itemprop="name">Melkweg</span>,
-            <span itemprop="address"
-                itemscope
-                itemtype="http://schema.org/PostalAddress">
-              <span itemprop="addressLocality">Amsterdam</span>
-            </span>
-          </span>
-          <br/>
-          <span itemprop="startDate" content="2012-10-17T20:30">
-            17 oktober 2012, Aanvang: 20.30
-          </span>
-        </p>
-        <p>
-          <a href="http://www.melkweg.nl/artikelpagina.jsp?artikelid=2028004">
-            Kaarteverkoop en informatie</a>
-        </p>
-      </div>
-      <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">Besloten Kerst-recitals</h3>
-        <p itemprop="description">
-          In samenwerking met pianist
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/Person">
-            <span itemprop="name">Cyrill Ibrahim</span>.
-          </span>
-        </p>
-        <p>
-          <span itemprop="startDate" content="2012-12-17">
-            17 - 24 december 2012
-          </span>
-          <br>
-          <a href="http://cyrillibrahim.wordpress.com/">
-            Website van Cyrill Ibrahim</a>
-        </p>
-      </div>
-      <div itemscope itemtype="http://schema.org/Event">
-        <h3 itemprop="name">Weihnachtsoratorium, J.S. Bach</h3>
-        <p itemprop="description">
-          In samenwerking met het 
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/MusicGroup">
-            <span itemprop="name">Noordhollands Muziekensemble</span>
-          </span>
-          o.l.v.
-          <span itemprop="performer"
-              itemscope
-              itemtype="http://schema.org/Person">
-            <span itemprop="name">Hendrik Timmerman</span>.
-          </span>
-        </p>
-        <p>
-          <span itemprop="location"
-              itemscope
-              itemtype="http://schema.org/Church">
-            <span itemprop="name">Ter Coulskerk</span>,
-            <span itemprop="address"
-                itemscope
-                itemtype="http://schema.org/PostalAddress">
-              <span itemprop="addressLocality">Heiloo</span>
-            </span>
-          </span>
-          <br>
-          <span itemprop="startDate" content="2012-12-22T20:00">
-            22 december 2012, Aanvang: 20.00
-          </span>
-          <br>
-          <a href="http://nhme.nl/kaarten.html">Kaartverkoop en informatie</a>
-        </p>
-      </div>
+      
     </div>
   </div>
 </div>
