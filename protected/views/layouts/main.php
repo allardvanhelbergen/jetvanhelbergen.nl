@@ -75,6 +75,15 @@
         </div>
         <div class="row">
           <p>&nbsp;</p>
+          <p>
+            <a class="btn btn-large btn-primary span2"
+                target="_blank"
+                href="http://www.adelinevanlier.nl/programma/theater-step-by-step-by-wheelsluc-boyer/">
+              Recensie Step by Step by Wheels</a>
+          </p>
+        </div>
+        <div class="row">
+          <p>&nbsp;</p>
           <p>&nbsp;</p>
           <p>&nbsp;</p>
           <address>

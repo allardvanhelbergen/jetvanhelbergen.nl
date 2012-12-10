@@ -39,13 +39,41 @@
       </div>
       
       <div itemscope itemtype="http://schema.org/Event">
+        <h4 itemprop="name">Kerstspieghelavond</h4>
+        <p itemprop="description">
+          In samenwerking met
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Ruben van Zwieten</span>.
+          </span>
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/Church">
+            <span itemprop="name">Spieghelkerk</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Bussum</span>
+            </span>
+          </span>
+          <br/>
+          <span itemprop="startDate" content="2012-12-14T20:00">
+            14 december, Aanvang: 20.00
+          </span>
+        </p>
+      </div>
+      
+      <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Verhaal van Kerst</h4>
         <p itemprop="description">
           In samenwerking met
           <span itemprop="performer"
               itemscope
               itemtype="http://schema.org/Person">
-            <span itemprop="name">Ruben van Zwieten</span>
+            <span itemprop="name">Ruben van Zwieten</span>,
           </span>
           <span itemscope itemtype="http://schema.org/NGO">
             <span itemprop="name">Zingeving Zuidas</span>.
@@ -92,7 +120,7 @@
           opgevoed of verwend. Aan de andere kant van de Noordzee en oceaan is 
           dat anders. Maar ook in Frankrijk. Natuurlijk zijn ze er in Nederland,
           de bevlogen woordkunstenaars. We geven ze graag het woord. 
-          &lquo;In De Houten Broek&rquo; ruimt tijd en aandacht in voor 
+          &lsquo;In De Houten Broek&rsquo; ruimt tijd en aandacht in voor 
           welsprekendheid en biedt speels en serieus tegenwicht tegen de 
           babbelcultuur alom, de kakofonie van snelle meningen, de dictatuur 
           van one-liners.
@@ -352,6 +380,79 @@
         </p>
       </div>
       
+      <h3>Juli 2012</h3>
+      
+      <div itemscope itemtype="http://schema.org/Event">
+        <h4 itemprop="name">Dido and Aeneas, H. Purcell</h4>
+        <p itemprop="description">
+          In samenwerking met
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/MusicGroup">
+            <span itemprop="name">Koor de Stemming</span>
+          </span>
+          o.l.v.
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Joost Schouten</span>.
+          </span>
+          <br/>
+          Rol: Heks 1
+        </p>
+        <p>
+          Tobacco Theater, Nes 75, Amsterdam
+          <br>
+          <span itemprop="startDate" content="2020-01-01">
+             Zaterdag 7 juli, 16.00 (matinee) en 
+             21.00 (late voorstelling)
+          </span>
+        </p>
+        <p>
+          <a href="http://www.koordestemming.nl/">
+            Website van De Stemming</a>
+        </p>
+      </div>
+      
+      <h3>Mei 2012</h3>
+      
+      <div>
+        <h4 itemprop="name">Requiem, G. Faur&eacute;</h4>
+        <p itemprop="description">
+          In samenwerking met het
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/MusicGroup">
+            <span itemprop="name">Noordhollands Muziekensemble</span>
+          </span>
+          o.l.v.
+          <span itemprop="performer"
+              itemscope
+              itemtype="http://schema.org/Person">
+            <span itemprop="name">Hendrik Timmerman</span>.
+          </span>
+        </p>
+        <p>
+          <span itemprop="location"
+              itemscope
+              itemtype="http://schema.org/Church">
+            <span itemprop="name">Ter Coulsterkerk</span>,
+            <span itemprop="address"
+                itemscope
+                itemtype="http://schema.org/PostalAddress">
+              <span itemprop="streetAddress">Holleweg 111</span>,
+              <span itemprop="addressLocality">Heiloo</span>
+            </span>
+          </span>
+          <br/>
+          <span itemprop="startDate" content="2012-05-17T20:00">
+            17 mei 2012, Aanvang: 20.00
+          </span>
+        </p>
+        <p>
+          <a href="http://nhme.nl/agenda.html">Programma van NHME</a>
+        </p>
+      </div>
     </div>
   </div>
 </div>
