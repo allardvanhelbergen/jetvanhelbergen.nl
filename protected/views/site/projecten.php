@@ -14,9 +14,22 @@
   <div class="tab-content">
     <div class="tab-pane active" id="projecten">
       <h2>Agenda concerten en projecten</h2>
-      
+
+      <p class="lead muted">
+        Wegens zwangerschapsverlof geeft Jet van Helbergen de komende tijd geen
+        concerten.
+      </p>
+      <p>
+        Per 1 december start zij weer met o.a. uitvoeringen van
+        <i>Jamaica Farewell</i>,
+        voorbereidingen voor de kameropera productie
+        <i>Kosovo</i>
+        i.s.m. bariton David Visser, en Kerstrecitals in samenwerking met Ruben
+        van Zwieten en Zingeving Zuidas.
+      </p>
+
       <h3>December 2012</h3>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Besloten Kerst-recitals</h4>
         <p itemprop="description">
@@ -37,7 +50,7 @@
             Website van Cyrill Ibrahim</a>
         </p>
       </div>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Kerstspieghelavond</h4>
         <p itemprop="description">
@@ -65,7 +78,7 @@
           </span>
         </p>
       </div>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Verhaal van Kerst</h4>
         <p itemprop="description">
@@ -100,9 +113,9 @@
             www.zingevingzuidas.nl</a>
         </p>
       </div>
-      
+
       <h3>November 2012</h3>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Sermoen 'In de Houten Broek'</h4>
         <p itemprop="description">
@@ -115,14 +128,14 @@
         </p>
         <p>
           Is welsprekendheid in de Nederlandse cultuur een verwaarloosde kunst?
-          Spreken in het openbaar, overtuigend van inhoud en woordkeus, 
-          welluidend, met dictie en ritme, daar worden we niet ruimschoots mee 
-          opgevoed of verwend. Aan de andere kant van de Noordzee en oceaan is 
+          Spreken in het openbaar, overtuigend van inhoud en woordkeus,
+          welluidend, met dictie en ritme, daar worden we niet ruimschoots mee
+          opgevoed of verwend. Aan de andere kant van de Noordzee en oceaan is
           dat anders. Maar ook in Frankrijk. Natuurlijk zijn ze er in Nederland,
-          de bevlogen woordkunstenaars. We geven ze graag het woord. 
-          &lsquo;In De Houten Broek&rsquo; ruimt tijd en aandacht in voor 
-          welsprekendheid en biedt speels en serieus tegenwicht tegen de 
-          babbelcultuur alom, de kakofonie van snelle meningen, de dictatuur 
+          de bevlogen woordkunstenaars. We geven ze graag het woord.
+          &lsquo;In De Houten Broek&rsquo; ruimt tijd en aandacht in voor
+          welsprekendheid en biedt speels en serieus tegenwicht tegen de
+          babbelcultuur alom, de kakofonie van snelle meningen, de dictatuur
           van one-liners.
         </p>
         <p>
@@ -146,9 +159,9 @@
             www.indehoutenbroek.nl</a>
         </p>
       </div>
-      
+
       <h3>Oktober 2012</h3>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">5 kwarts</h4>
         <p itemprop="description">
@@ -189,7 +202,7 @@
             Kaarteverkoop en informatie</a>
         </p>
       </div>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Step by Step by Wheels</h4>
         <ul class="thumbnails pull-right">
@@ -238,9 +251,9 @@
           </span>
         </p>
       </div>
-      
+
       <h3>September 2012</h3>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Jamaica Farewell</h4>
         <ul class="thumbnails pull-right">
@@ -379,9 +392,9 @@
             Omschrijving op Voor de Kunst</a>
         </p>
       </div>
-      
+
       <h3>Juli 2012</h3>
-      
+
       <div itemscope itemtype="http://schema.org/Event">
         <h4 itemprop="name">Dido and Aeneas, H. Purcell</h4>
         <p itemprop="description">
@@ -404,7 +417,7 @@
           Tobacco Theater, Nes 75, Amsterdam
           <br>
           <span itemprop="startDate" content="2020-01-01">
-             Zaterdag 7 juli, 16.00 (matinee) en 
+             Zaterdag 7 juli, 16.00 (matinee) en
              21.00 (late voorstelling)
           </span>
         </p>
@@ -413,9 +426,9 @@
             Website van De Stemming</a>
         </p>
       </div>
-      
+
       <h3>Mei 2012</h3>
-      
+
       <div>
         <h4 itemprop="name">Requiem, G. Faur&eacute;</h4>
         <p itemprop="description">

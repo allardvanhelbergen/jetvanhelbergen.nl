@@ -7,25 +7,25 @@
           echo CHtml::encode(Yii::app()->name); ?>
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" 
-    content="<?php 
+    <meta name="description"
+    content="<?php
         if (isset($this->description)) {
           echo $this->description;
         } else {
           echo 'Offici&euml;le site van Jet van Helbergen, Sopraan. '.
               'Afgestudeerd aan het Conservatorium van Rotterdam werkt zij '.
-              'vanuit haar studio in Amsterdam.';} 
+              'vanuit haar studio in Amsterdam.';}
         ?>">
-    <meta name="author" 
+    <meta name="author"
         content="Allard van Helbergen, http://www.vanhelbergen.com/">
 
-    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.min.css" 
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap.min.css"
         rel="stylesheet">
-    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css" 
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css"
         rel="stylesheet">
-    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap-responsive.min.css" 
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap-responsive.min.css"
         rel="stylesheet">
-    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/lightbox.css" 
+    <link href="<?php echo Yii::app()->request->baseUrl; ?>/css/lightbox.css"
         rel="stylesheet">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -55,6 +55,18 @@
       <div class="span3 offset1">
         <div class="row">
           <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>
+            <a class="btn btn-primary btn-large btn-success span2"
+                target="_blank"
+                href="https://vimeo.com/70042532">
+              <i class="icon-facetime-video icon-white"></i>&nbsp;
+              Bekijk de Promo van <br>
+              <i>Jamaica Farewell</i><br>
+              op Vimeo</a>
+          </p>
+        </div>
+        <div class="row">
           <p>&nbsp;</p>
           <p>
             <a class="btn btn-primary btn-large btn-success span2"
@@ -91,7 +103,7 @@
             <br>
             <a href="mailto:info@jetvanhelbergen.nl">
               info@jetvanhelbergen.nl</a>
-            <i class="icon-envelope"></i> 
+            <i class="icon-envelope"></i>
           </address>
         </div>
       </div>
