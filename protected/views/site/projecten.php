@@ -24,7 +24,7 @@
         <i>Jamaica Farewell</i>,
         voorbereidingen voor de kameropera productie
         <i>Kosovo</i>
-        i.s.m. bariton David Visser, en Kerstrecitals in samenwerking met Ruben
+        i.s.m. bariton David Visser, Kerstrecitals en werkzaamheden met Ruben
         van Zwieten en Zingeving Zuidas.
       </p>
 
