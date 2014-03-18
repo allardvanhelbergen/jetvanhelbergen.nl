@@ -21,17 +21,23 @@
         <h4>Kosovo</h4>
         <p>Huiskamer opera in samenwerking met David Visser.</p>
         <p>Compositie van Claire Rijckmans.</p>
-        <p>Romeynshof, Rotterdam</p>
-        <p>25 april, Aanvang: 20.00</p>
-        <p>Studio de Bakkerij, Rotterdam</p>
-        <p>27 april, Aanvang: 15.00</p>
+        <p>
+          Romeynshof, Rotterdam<br>
+          25 april, Aanvang: 20.00
+        </p>
+        <p>
+          Studio de Bakkerij, Rotterdam<br>
+          27 april, Aanvang: 15.00
+        </p>
       </div>
 
       <div>
         <h4>Het verhaal van Pasen</h4>
         <p>In samenwerking met Ruben van Zwieten.</p>
-        <p>Thomaskerk, Amsterdam</p>
-        <p>16 april, Aanvang: 20.00</p>
+        <p>
+          Thomaskerk, Amsterdam<br>
+          16 april, Aanvang: 20.00
+        </p>
       </div>
 
       <h3>Maart 2014</h3>
@@ -51,8 +57,10 @@
           Dat het drieluik in de maand maart te zien is, is geen toeval:
           Boyer kreeg zijn beroerte precies twee jaar geleden.
         </p>
-        <p>Bellevue Theater, Amsterdam</p>
-        <p>16 maart, Aanvang: 20.30</p>
+        <p>
+          Bellevue Theater, Amsterdam<br>
+          16 maart, Aanvang: 20.30
+        </p>
       </div>
 
       <h3>December 2013</h3>
@@ -95,27 +103,30 @@
           Tussen romantische jongensdromen en de keiharde werkelijkheid van een
           lelijke formica tafel.
         </p>
-      </div>
-
-      <div>
-        <h4>Eetcafé Numer One, Mosplein 1, Amsterdam</h4>
-        <p>Winters Binnen Festival</p>
-        <p>14 december, Aanvang: 16.00 en 21.30</p>
-        <p>15 december, Aanvang: 18.00</p>
+        <p>
+          Eetcafé Numer One, Mosplein 1, Amsterdam<br>
+          Winters Binnen Festival<br>
+          14 december, Aanvang: 16.00 en 21.30<br>
+          15 december, Aanvang: 18.00
+        </p>
       </div>
 
       <div>
         <h4>Kerstspieghelavond</h4>
         <p>In samenwerking met Ruben van Zwieten.</p>
-        <p>Spieghelkerk, Bussum</p>
-        <p>13 december, Aanvang: 20.00</p>
+        <p>
+          Spieghelkerk, Bussum<br>
+          13 december, Aanvang: 20.00
+        </p>
       </div>
 
       <div itemscope itemtype="http://schema.org/Event">
         <h4>Verhaal van Kerst</h4>
         <p>In samenwerking met Ruben van Zwieten.</p>
-        <p>Thomaskerk, Amsterdam</p>
-        <p>11 december, Aanvang: 20.00</p>
+        <p>
+          Thomaskerk, Amsterdam<br>
+          11 december, Aanvang: 20.00
+        </p>
       </div>
 
 
