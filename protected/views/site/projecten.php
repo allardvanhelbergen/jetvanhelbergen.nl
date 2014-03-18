@@ -15,18 +15,109 @@
     <div class="tab-pane active" id="projecten">
       <h2>Agenda concerten en projecten</h2>
 
-      <p class="lead muted">
-        Wegens zwangerschapsverlof geeft Jet van Helbergen de komende tijd geen
-        concerten.
-      </p>
-      <p>
-        Per 1 december start zij weer met o.a. uitvoeringen van
-        <i>Jamaica Farewell</i>,
-        voorbereidingen voor de kameropera productie
-        <i>Kosovo</i>
-        i.s.m. bariton David Visser, Kerstrecitals en werkzaamheden met Ruben
-        van Zwieten en Zingeving Zuidas.
-      </p>
+      <h3>April 2014</h3>
+
+      <div>
+        <h4>Kosovo</h4>
+        <p>Huiskamer opera in samenwerking met David Visser.</p>
+        <p>Compositie van Claire Rijckmans.</p>
+        <p>Romeynshof, Rotterdam</p>
+        <p>25 april, Aanvang: 20.00</p>
+        <p>Studio de Bakkerij, Rotterdam</p>
+        <p>27 april, Aanvang: 15.00</p>
+      </div>
+
+      <div>
+        <h4>Het verhaal van Pasen</h4>
+        <p>In samenwerking met Ruben van Zwieten.</p>
+        <p>Thomaskerk, Amsterdam</p>
+        <p>16 april, Aanvang: 20.00</p>
+      </div>
+
+      <h3>Maart 2014</h3>
+
+      <div>
+        <h4>Step by Step - Drieluik</h4>
+        <p>In samenwerking met Luc Boyer</p>
+        <p>
+          Het drieluik Step by Step geeft een bijzonder kijkje in hoe theatermaker
+          Luc Boyer zijn beroerte, en de gevolgen ervan probeert te verwerken op
+          de enige manier die hij kent: spel en beweging.
+          Dat levert een scala aan emoties en beelden op: in het eerste deel,
+          Step by Step by Wheels gaat het vooral over troost en omarming, en in
+          deel twee, Step by Step by Wings, over de behoefte aan vrijheid.
+          In het laatste deel, Step by Step by Memories gaat Boyer samen met het
+          publiek de confrontatie met herinneringen en feiten aan.
+          Dat het drieluik in de maand maart te zien is, is geen toeval:
+          Boyer kreeg zijn beroerte precies twee jaar geleden.
+        </p>
+        <p>Bellevue Theater, Amsterdam</p>
+        <p>16 maart, Aanvang: 20.30</p>
+      </div>
+
+      <h3>December 2013</h3>
+
+      <div>
+        <h4>Cowboy</h4>
+        <p>
+          Eetcafé Number One is typisch het soort plek waar je makkelijk aan voorbij
+          loopt.
+          Het heeft op het eerste gezicht iets zielloos.
+          Het is niet groot, niet klein, niet smerig, niet mooi.
+          Het ligt buiten het centrum, ver van de plekken waar ‘het’ in Amsterdam gebeurt.
+          Je zou er belanden als alles verder dicht is, als je bij de Praxis bent
+          geweest en even snel een pizza wilt eten, als het je allemaal niet zoveel
+          uitmaakt of als je echt verdwaald bent. Het is niet de plek waar je
+          afspreekt voor een romantisch diner, een zakenlunch of een belangrijk
+          gesprek.
+          Je zal er je verjaardag niet vieren en geen buitenlandse vrienden mee
+          naartoe nemen om trots je stad te presenteren.
+        </p>
+        <p>
+          Echter, schijn bedriegt. Want de vaste gasten van Number One reizen
+          iedere week duizenden kilometers om juist op déze plek aan te schuiven
+          voor hun favoriete maaltijd. Number One is namelijk de stamkroeg van
+          piloten en stewardessen van de Amerikaanse luchtvaartmaatschappijen
+          Delta Airlines en Northwest Airlines.
+          Over de hele wereld vind je pilotenstamkroegen zoals Number One.
+          Ze zijn het gevolg van onze reislust en kosmopolitische levensstijl.
+          In de voorstelling Cowboy onderzoeken zangeres Jet van Helbergen en
+          schrijfster Anoek Nuyens, de praktijk van dit culturele fenomeen.
+          Tussen de pizzadozen, shoarma XL en het Amerikaanse decor neemt Van
+          Helbergen al filosoferend het publiek mee in het leven van de stamgasten
+          van Number One.
+          Ze zingt klassieke liederen van o.a. Schubert en Weil, die de beleving
+          van haar verhaal versterken. Hierbij wordt zij op de piano, cello, gitaar
+          en marimba ter zijde gestaan door multi-instrumentalist Boele Weemhoff.
+          Tekst, lied en muziek vullen elkaar aan in een vertelling die zich
+          afspeelt op de grens van het lokale en het globale.
+          Tussen een behoefte aan thuis komen en een verlangen naar het onbekende.
+          Tussen romantische jongensdromen en de keiharde werkelijkheid van een
+          lelijke formica tafel.
+        </p>
+      </div>
+
+      <div>
+        <h4>Eetcafé Numer One, Mosplein 1, Amsterdam</h4>
+        <p>Winters Binnen Festival</p>
+        <p>14 december, Aanvang: 16.00 en 21.30</p>
+        <p>15 december, Aanvang: 18.00</p>
+      </div>
+
+      <div>
+        <h4>Kerstspieghelavond</h4>
+        <p>In samenwerking met Ruben van Zwieten.</p>
+        <p>Spieghelkerk, Bussum</p>
+        <p>13 december, Aanvang: 20.00</p>
+      </div>
+
+      <div itemscope itemtype="http://schema.org/Event">
+        <h4>Verhaal van Kerst</h4>
+        <p>In samenwerking met Ruben van Zwieten.</p>
+        <p>Thomaskerk, Amsterdam</p>
+        <p>11 december, Aanvang: 20.00</p>
+      </div>
+
 
       <h3>December 2012</h3>
 
