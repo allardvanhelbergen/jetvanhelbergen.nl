@@ -15,6 +15,116 @@
     <div class="tab-pane active" id="projecten">
       <h2>Agenda concerten en projecten</h2>
 
+      <h3>September 2014</h3>
+
+      <div>
+        <h4>Cowboy</h4>
+        <p>
+          Amsterdam Fringe Festival<br>
+          Eetcafé Number One, Mosplein 1, Amsterdam Noord<br>
+          4 t/m 7 september
+        </p>
+        <p>Speellijst en kaartjes volgen</p>
+      </div>
+
+      <h3>Juni</h3>
+
+      <h4>De Schubertiade!</h4>
+      <p>Deel mee in een middag van liederen, gedichten en verhalen.</p>
+      <p>
+        Sopraan Jet van Helbergen en pianist Cyrill Ibrahim nodigen jou uit voor
+        een informele middag van muzikale en dichterlijke kruisbestuiving geënt
+        op de vermaarde Schubertiades: uitbundige bijeenkomsten van muziek en
+        po&euml;zie waarbij de componist Schubert en zijn vrienden elkaar
+        inspireerden.
+      </p>
+      <p>
+        Doe mee!<br>
+        Met verhalen en anecdotes nemen Jet en Cyrill jou mee in de wereld van
+        de componist die hen zo inspireert.  Maar inpiratie werkt dus twee
+        kanten op. En daarom roepen Jet en Cyrill het publiek op om mee te doen
+        door verzoeknummers en -gedichten op te geven. Ook is er de
+        mogelijkheid gedichten zelf voor te dragen.
+      </p>
+      <p>
+        Oh Captain, my captain!
+        Inspireer en laat je inspireren. Wees welkom op zondag 29 juni om
+        14.30 in de Shaffyzaal van Felix Meritis!
+      </p>
+      <p>
+        Felix Meritis, Keizersgracht 324, Amsterdam <br>
+        29 juni, Aanvang: 14.30 (14.00 deuren open en mogelijkheid tot koffie
+        en taart)
+      </p>
+
+      <div>
+        <h4>Amsterdam Preview Concert</h4>
+        <p>Met pianist Cyrill Ibrahim en gast optreden van Jet van Helbergen.</p>
+        <blockquote>
+          <p>
+            Ik zie het als mijn opdracht om tijdens mijn leven met mijn piano
+            spel zoveel mogelijk mensen de schoonheid van muziek te laten
+            ervaren.
+          </p>
+          <small>Cyrill Ibrahim</small>
+        </blockquote>
+        <p>
+          De Nederlandse pianist Cyrill Ibrahim studeerde aan de Royal College
+          of Music in Londen.  Zowel als solist en als begeleider geeft Ibrahim
+          over de hele wereld concerten.  Aanstaande kerst lanceert hij zijn
+          debuut album met werken van J.S. Bach, C. Debussy, F. Schubert en R.
+          Schumann.<br>
+          In een sneak preview concert heeft u nu de unieke kans deze jonge
+          getalenteerde, pianist in Nederland te horen spelen.
+        </p>
+        <blockquote>
+          <p>
+            Cyrill has a deep, innate musicianship of a kind I have rarely
+            seen, he unquestionably has something to say in his
+            music-making.
+          </p>
+          <small>
+            Steven Osborne (one of Britain&apos;s foremost musicians)
+          </small>
+        </blockquote>
+        <p>
+          Felix Meritis, Keizersgracht 324, Amsterdam<br>
+          27 juni, Aanvang: 20.00
+        </p>
+        <p>
+          <a href="https://www.facebook.com/events/216470105230002/?fref=ts">
+            Facebook Event</a><br>
+          <a href="http://www.eventbrite.nl/e/tickets-amsterdam-preview-concert-11591308917?aff=eac2">
+            Kaartverkoop</a>
+        </p>
+      </div>
+
+      <div>
+        <h4>Pop-up Amsterdam</h4>
+        <p>
+          Pop-Up Amsterdam is een eenmalig, live magazine waarin artikelen,
+          foto-essays en  collumns zich voor de ogen en de oren van het publiek
+          ontvouwen. In korte reportages nemen radiomakers, fotografen en
+          grensoverschijdende denkers het publiek mee naar de curieuze uithoeken
+          van het Amsterdamse bestaan. Een podium voor parels van verhalen die u
+          letterlijk nergens anders te lezen krijgt.
+        </p>
+        <p>
+          Kom luisteren o.a. naar: Aernoud Bourdrez, advocaat voor de
+          underground elite, Pete Jordan, president van De Fiets Republiek,
+          streetstyle memorist Barabara Iweins en twitter biograaf Jan-Dirk van
+          den Burg
+        </p>
+        <p>
+          Felix Meritis, Keizersgracht 324, Amsterdam<br>
+          19 juni, Aanvang: 20.00
+        </p>
+        <p>
+          <a href="http://www.eventbrite.nl/e/tickets-pop-up-amsterdam-felix-foam-11591276821?aff=eac2">
+            Kaartverkoop</a>
+        </p>
+      </div>
+
       <h3>April 2014</h3>
 
       <div>
