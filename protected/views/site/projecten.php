@@ -29,33 +29,41 @@
 
       <h3>Juni</h3>
 
-      <h4>De Schubertiade!</h4>
-      <p>Deel mee in een middag van liederen, gedichten en verhalen.</p>
-      <p>
-        Sopraan Jet van Helbergen en pianist Cyrill Ibrahim nodigen jou uit voor
-        een informele middag van muzikale en dichterlijke kruisbestuiving geënt
-        op de vermaarde Schubertiades: uitbundige bijeenkomsten van muziek en
-        po&euml;zie waarbij de componist Schubert en zijn vrienden elkaar
-        inspireerden.
-      </p>
-      <p>
-        Doe mee!<br>
-        Met verhalen en anecdotes nemen Jet en Cyrill jou mee in de wereld van
-        de componist die hen zo inspireert.  Maar inpiratie werkt dus twee
-        kanten op. En daarom roepen Jet en Cyrill het publiek op om mee te doen
-        door verzoeknummers en -gedichten op te geven. Ook is er de
-        mogelijkheid gedichten zelf voor te dragen.
-      </p>
-      <p>
-        Oh Captain, my captain!
-        Inspireer en laat je inspireren. Wees welkom op zondag 29 juni om
-        14.30 in de Shaffyzaal van Felix Meritis!
-      </p>
-      <p>
-        Felix Meritis, Keizersgracht 324, Amsterdam <br>
-        29 juni, Aanvang: 14.30 (14.00 deuren open en mogelijkheid tot koffie
-        en taart)
-      </p>
+      <div>
+        <h4>De Schubertiade!</h4>
+        <p>Deel mee in een middag van liederen, gedichten en verhalen.</p>
+        <p>
+          Sopraan Jet van Helbergen en pianist Cyrill Ibrahim nodigen jou uit voor
+          een informele middag van muzikale en dichterlijke kruisbestuiving geënt
+          op de vermaarde Schubertiades: uitbundige bijeenkomsten van muziek en
+          po&euml;zie waarbij de componist Schubert en zijn vrienden elkaar
+          inspireerden.
+        </p>
+        <p>
+          Doe mee!<br>
+          Met verhalen en anecdotes nemen Jet en Cyrill jou mee in de wereld van
+          de componist die hen zo inspireert.  Maar inpiratie werkt dus twee
+          kanten op. En daarom roepen Jet en Cyrill het publiek op om mee te doen
+          door verzoeknummers en -gedichten op te geven. Ook is er de
+          mogelijkheid gedichten zelf voor te dragen.
+        </p>
+        <p>
+          Oh Captain, my captain!
+          Inspireer en laat je inspireren. Wees welkom op zondag 29 juni om
+          14.30 in de Shaffyzaal van Felix Meritis!
+        </p>
+        <p>
+          Felix Meritis, Keizersgracht 324, Amsterdam <br>
+          29 juni, Aanvang: 14.30 (14.00 deuren open en mogelijkheid tot koffie
+          en taart)
+        </p>
+        <p>
+          <a href="https://www.facebook.com/events/579832122131562/?fref=ts">
+            Facebook Event</a><br>
+          <a href="http://www.eventbrite.nl/e/tickets-de-schubertiade-11680571905?aff=es2&rank=1">
+            Kaartverkoop</a>
+        </p>
+      </div>
 
       <div>
         <h4>Amsterdam Preview Concert</h4>
@@ -120,6 +128,8 @@
           19 juni, Aanvang: 20.00
         </p>
         <p>
+          <a href="https://www.facebook.com/events/596957493745789/?fref=ts">
+            Facebook Event</a><br>
           <a href="http://www.eventbrite.nl/e/tickets-pop-up-amsterdam-felix-foam-11591276821?aff=eac2">
             Kaartverkoop</a>
         </p>
