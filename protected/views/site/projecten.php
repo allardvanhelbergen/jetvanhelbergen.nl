@@ -18,13 +18,44 @@
       <h3>September 2014</h3>
 
       <div>
-        <h4>Cowboy</h4>
+        <h4>Pizza&apos;s en Piloten</h4>
+        <p>Amsterdam Fringe Festival 2014</p>
         <p>
-          Amsterdam Fringe Festival<br>
-          Eetcafé Number One, Mosplein 1, Amsterdam Noord<br>
-          4 t/m 7 september
+          Spel en zang: Jet van Helbergen // Tekst: Anoek Nuyens // Concept: Jet van Helbergen en Anoek Nuyens //
+          Muzikale begeleiding: Boele Weemhoff // Eindregie: Marien Jongewaard //
+          Muziek: o.a. Franz Schubert en Kurt Weill
         </p>
-        <p>Speellijst en kaartjes volgen</p>
+        <p>
+          Eetcaf&eacute; Number One is typisch het soort plek waar je makkelijk aan voorbij loopt. Het is onopvallend,
+          niet groot, niet klein, niet mooi, niet lelijk.
+          Echter, achter de voorgevel blijkt zich een groot deel van het roerige leven van Amerikaanse piloten en
+          stewardessen af te spelen.
+          Zij reizen iedere week duizenden kilometers om juist hier aan te schuiven voor hun favoriete maaltijd.
+        </p>
+        <p>
+          De voorstelling Pizza&apos;s en Piloten zoomt in op het leven van deze vaste gasten.
+          Tussen de pizzadozen en shoarma XL, staande aan de neon-verlichte bar, nemen Jet van Helbergen en Boele
+          Weemhoff het publiek aan de hand van klassieke liederen mee in dit waargebeurde verhaal.
+          Tekst, liederen en akoestische soundscapes vullen elkaar aan in een vertelling die zich afspeelt op de grens
+          van het lokale en het globale.
+          Tussen een behoefte aan thuiskomen en een verlangen naar het onbekende.
+          Tussen romantische jongensdromen en de keiharde werkelijkheid van een lelijke formica tafel.
+        </p>
+        <p>
+          Eetcaf&eacute; Number One, Mosplein 1, Amsterdam Noord
+        </p>
+        <ul>
+          <li>4 sept 17.00 (try out)</li>
+          <li>4 sept 20.30</li>
+          <li>5 sept 20.30 (premi&egrave;re)</li>
+          <li>6 sept 17.00</li>
+          <li>6 sept 20.30</li>
+          <li>7 sept 15.00</li>
+          <li>7 sept 18.00</li>
+        </ul>
+        <p>
+          <a href="http://www.amsterdamfringefestival.nl">Kaartverkoop</a>
+        </p>
       </div>
 
       <h3>Juni</h3>
@@ -34,7 +65,7 @@
         <p>Deel mee in een middag van liederen, gedichten en verhalen.</p>
         <p>
           Sopraan Jet van Helbergen en pianist Cyrill Ibrahim nodigen jou uit voor
-          een informele middag van muzikale en dichterlijke kruisbestuiving geënt
+          een informele middag van muzikale en dichterlijke kruisbestuiving ge&euml;nt
           op de vermaarde Schubertiades: uitbundige bijeenkomsten van muziek en
           po&euml;zie waarbij de componist Schubert en zijn vrienden elkaar
           inspireerden.
@@ -188,11 +219,11 @@
       <div>
         <h4>Cowboy</h4>
         <p>
-          Eetcafé Number One is typisch het soort plek waar je makkelijk aan voorbij
+          Eetcaf&eacute; Number One is typisch het soort plek waar je makkelijk aan voorbij
           loopt.
           Het heeft op het eerste gezicht iets zielloos.
           Het is niet groot, niet klein, niet smerig, niet mooi.
-          Het ligt buiten het centrum, ver van de plekken waar ‘het’ in Amsterdam gebeurt.
+          Het ligt buiten het centrum, ver van de plekken waar 'het' in Amsterdam gebeurt.
           Je zou er belanden als alles verder dicht is, als je bij de Praxis bent
           geweest en even snel een pizza wilt eten, als het je allemaal niet zoveel
           uitmaakt of als je echt verdwaald bent. Het is niet de plek waar je
@@ -203,7 +234,7 @@
         </p>
         <p>
           Echter, schijn bedriegt. Want de vaste gasten van Number One reizen
-          iedere week duizenden kilometers om juist op déze plek aan te schuiven
+          iedere week duizenden kilometers om juist op d&eacute;ze plek aan te schuiven
           voor hun favoriete maaltijd. Number One is namelijk de stamkroeg van
           piloten en stewardessen van de Amerikaanse luchtvaartmaatschappijen
           Delta Airlines en Northwest Airlines.
@@ -224,7 +255,7 @@
           lelijke formica tafel.
         </p>
         <p>
-          Eetcafé Numer One, Mosplein 1, Amsterdam<br>
+          Eetcaf&eacute; Numer One, Mosplein 1, Amsterdam<br>
           Winters Binnen Festival<br>
           14 december, Aanvang: 16.00 en 21.30<br>
           15 december, Aanvang: 18.00
@@ -514,7 +545,7 @@
             universeel en van alle tijden? Of is deze verbonden aan de
             globalisatie waar wij vandaag de dag deel van uitmaken? Hoe zoekt
             de ontheemde mens anno 2012 naar de plek waar hij thuis hoort? En
-            is deze plek überhaupt bereikbaar, of is het thuisland een utopie?  
+            is deze plek &uuml;berhaupt bereikbaar, of is het thuisland een utopie?  
           </p>
           <p>
             Jet van Helbergen maakt in samenwerking met schrijfster Marjolijn
